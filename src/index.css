@@ -10,3 +10,7 @@
 body {
   @apply bg-[#69d4b0];
 }
+
+.the-border {
+  @apply border-[2px] border-r-[3.5px] border-b-[3.5px] border-[#0a0445] rounded-sm
+}
