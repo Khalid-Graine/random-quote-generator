@@ -36,7 +36,7 @@ function App() {
           onClick={() => setRandom(Math.floor(Math.random() * 15))}
           className=" mt-3 text-white font-bold text-xl px- py-2   the-border hover:bg-[#0a0445] active:bg-[#0a0460]"
         >
-          Get Random Advice
+          Get Random Quote
         </button>
       </div>
     </>
